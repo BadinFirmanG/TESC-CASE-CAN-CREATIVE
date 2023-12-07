@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recycler_view" type="id">string.xml</item>
+    <item name="recyclerView" type="id">colors</item>
+    <item name="game_title_text_view" type="id" />
+</resources>
